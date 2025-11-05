@@ -1,5 +1,5 @@
 Flask==2.3.3
 tensorflow==2.20.0
-numpy
-Pillow
-gunicorn
+numpy==2.1.1
+Pillow==10.4.0
+gunicorn==23.0.0
